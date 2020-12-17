@@ -1,6 +1,3 @@
-# README
-Building Photoshop-like Filters from scratch with Python.
-
 # Building PS-like Filters from scratch with Python
 This repo documented how we recreate Photoshop-like filter from scratch with Python. Including fundamental concepts from image processing: Histogram Equalisation, Laplcian Pyramid Blending, Poisson Blending etc. Poisson Blending is recreate from the paper Poisson Image Editing (https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf). Comparisons of different image enhancement techniques is on https://elimkwan.github.io/2020/11/01/pythonImgEnhance/
 
